@@ -1,0 +1,2 @@
+# GetirPatika
+Bootcamp Taslak
